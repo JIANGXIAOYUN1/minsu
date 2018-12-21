@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\miSu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\miSu\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "83,84",
+                        "startColumns": "4,4",
+                        "startOffsets": "3846,3904",
+                        "endColumns": "57,55",
+                        "endOffsets": "3899,3955"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\miSu\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4,13,12,8,6,7,22,19,10,18,20,21,9,16,17,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "156,59,102,505,454,292,210,251,1042,822,373,752,888,969,331,642,695,554,595",
+                        "endColumns": "52,41,52,47,49,37,39,39,68,64,62,68,79,71,40,51,55,39,45",
+                        "endOffsets": "204,96,150,548,499,325,245,286,1106,882,431,816,963,1036,367,689,746,589,636"
+                    },
+                    "to": {
+                        "startLines": "93,94,95,96,97,98,99,106,107,108,109,110,111,112,113,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4370,4423,4465,4518,4566,4616,4654,5238,5278,5347,5412,5475,5544,5624,5696,5737,5789,5845,5885",
+                        "endColumns": "52,41,52,47,49,37,39,39,68,64,62,68,79,71,40,51,55,39,45",
+                        "endOffsets": "4418,4460,4513,4561,4611,4649,4689,5273,5342,5407,5470,5539,5619,5691,5732,5784,5840,5880,5926"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\library\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,77,78,79,80,81,82,83,84,85,86,87,88,89,90",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,3573,3637,3701,3756,3813,3868,3906,3946,3983,4085,4199,4307,4379,4449",
+                        "endLines": "76,77,78,79,80,81,82,83,84,85,86,87,88,89,90",
+                        "endColumns": "24,63,63,54,56,54,37,39,36,101,113,107,71,69,77",
+                        "endOffsets": "3568,3632,3696,3751,3808,3863,3901,3941,3978,4080,4194,4302,4374,4444,4522"
+                    },
+                    "to": {
+                        "startLines": "8,85,86,87,88,89,90,91,92,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "328,3960,4024,4088,4143,4200,4255,4293,4333,4694,4796,4910,5018,5090,5160",
+                        "endLines": "82,85,86,87,88,89,90,91,92,100,101,102,103,104,105",
+                        "endColumns": "24,63,63,54,56,54,37,39,36,101,113,107,71,69,77",
+                        "endOffsets": "3841,4019,4083,4138,4195,4250,4288,4328,4365,4791,4905,5013,5085,5155,5233"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\miSu\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,18,25",
+                        "startColumns": "4,4,4,1",
+                        "startOffsets": "191,522,685,1132",
+                        "endLines": "12,17,24,28",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "481,679,1127,1341"
+                    },
+                    "to": {
+                        "startLines": "118,125,128,135",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5931,6222,6382,6823",
+                        "endLines": "124,127,134,138",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "6217,6377,6818,7029"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\miSu\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,5,4,7,6,2",
+                        "startColumns": "0,7,4,11,8,7",
+                        "startOffsets": "101,196,153,299,251,60",
+                        "endColumns": "46,52,38,55,43,46",
+                        "endOffsets": "147,241,187,343,286,99"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,195,244,284",
+                        "endColumns": "50,49,38,48,39,43",
+                        "endOffsets": "101,151,190,239,279,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/title">
+
+    <RelativeLayout
+        android:id="@+id/top_tab"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@color/title">
+
+        <TextView
+            android:id="@+id/iv_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null"
+            android:text="注册"
+            android:textColor="@color/bottomtab_press"
+            android:textSize="20dp" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/phoneNum"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/login_pwdusername"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="请输入帐号"
+            android:inputType="number"
+            android:maxLines="1"
+            android:singleLine="true">
+
+        </EditText>
+
+        
+  <EditText
+            android:id="@+id/email"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_pwdusername"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="请输入邮箱"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:singleLine="true" />
+
+  <EditText
+            android:id="@+id/phone"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_pwdusername"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="请输入手机号码"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:singleLine="true" />
+  <EditText
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_pwdusername"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="@string/inputpassword"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:singleLine="true" />
+        <EditText
+            android:id="@+id/confirmpassword"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_pwdusername"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="请输入密码"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:singleLine="true" />
+
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/loginbg2"
+            android:enabled="true"
+            android:gravity="center"
+            android:text="注册"
+            android:textColor="@color/bottomtab_normal" />
+
+    </LinearLayout>
+
+</TableLayout>

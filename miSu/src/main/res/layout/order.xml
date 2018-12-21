@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:background="#FFFFFF" >
+
+        <TextView
+            android:id="@+id/iv_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null"
+            android:text="我的订单"
+            android:textColor="#333333"
+            android:textSize="20dp" />
+    </RelativeLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshGridView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pull_refresh_grid"
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:layout_weight="5"
+        android:columnWidth="120dp"
+        android:divider="#F0F0F0"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:gravity="fill"
+        android:headerDividersEnabled="false"
+        android:horizontalSpacing="5dp"
+        android:numColumns="1"
+        android:smoothScrollbar="true"
+        android:stretchMode="columnWidth"
+        android:transcriptMode="alwaysScroll"
+        android:verticalSpacing="5dp"
+        ptr:ptrMode="both" />
+
+</LinearLayout>

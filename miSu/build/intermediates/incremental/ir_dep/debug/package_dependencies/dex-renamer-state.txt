@@ -1,0 +1,4 @@
+#Fri Dec 21 21:05:56 CST 2018
+base.0=C\:\\Users\\Jiangxiaoyun\\AndroidStudioProjects\\MiSu\\miSu\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

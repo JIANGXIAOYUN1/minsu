@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+       android:background="@color/title"
+    >
+   <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="42dp"
+            android:background="@color/title">
+
+        
+
+            <TextView
+                android:id="@+id/iv_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:contentDescription="@null"
+                android:text="发现"
+                android:textColor="#333333"
+                android:textSize="20dp" />
+
+            
+        </RelativeLayout>
+ <GridView
+        android:id="@+id/grid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:columnWidth="120dp"
+        android:divider="#F0F0F0"
+        android:gravity="fill"
+        android:horizontalSpacing="5dp"
+        android:numColumns="1"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="5dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        android:layout_weight="5"
+
+        android:transcriptMode="alwaysScroll"
+         />
+</LinearLayout>

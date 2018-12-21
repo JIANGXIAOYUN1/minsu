@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <color name="touming">#00000000</color>
+<color name="bottomtab_normal">#808080</color>
+    <color name="line">#c8bca5</color>
+       <color name="bottomtab_press">#333333</color>
+        <color name="title">#F0F0F0</color>
+           <color name="login_register">#00A0E9</color>
+</resources>

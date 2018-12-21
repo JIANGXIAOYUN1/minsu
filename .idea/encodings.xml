@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/example/misu/ConserveActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/example/misu/DetailActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/example/misu/LoginActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/example/misu/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/example/misu/RegisterActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/example/misu/UpdatePwdActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/fragment/FindFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/fragment/MineFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/fragment/MyOrderFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/miSu/src/main/java/com/fragment/TouristFragment.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
